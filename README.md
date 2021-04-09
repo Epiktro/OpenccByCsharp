@@ -1,0 +1,2 @@
+# OpenccByCsharp
+基于C#实现的一个利用opencc词库和结巴分词的繁简中文转换项目
